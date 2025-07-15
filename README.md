@@ -20,7 +20,7 @@ streamlit_demo/
 
 ```bash
 # clone the repo
-git clone https://github.com/your_username/streamlit_demo.git && cd streamlit_demo
+git clone https://github.com/samvillasmith/streamlit_demo.git && cd streamlit_demo
 
 # create virtual environment
 python -m venv .venv && source .venv/bin/activate      # Mac/Linux
